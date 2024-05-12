@@ -1,0 +1,6 @@
+pip install llama-index-llms-gradient
+pip install llama-index-embeddings-gradient
+pip install streamlit
+pip install streamlit-lottie
+pip install requests
+pip install sqlite3

@@ -11,8 +11,8 @@
 </p>
 <h5>some new technologies we tried for the first time are:</h5>
 <ul>
-  <li>1. llama Index framework</li>
-  <li>2. llama 2 model</li>
-  <li>3. Gradient embeddings</li>
-  <li>4. python streamlit for GUI</li>
+  <li> llama Index framework</li>
+  <li> llama 2 model</li>
+  <li> Gradient embeddings</li>
+  <li> python streamlit for GUI</li>
 </ul>
